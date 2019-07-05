@@ -1,0 +1,51 @@
+<html>
+  <body>
+    <form action="/" method="POST">
+      <label> <h1>INPUT:</h1> </label><br />
+      <input type="text" name="input" /><br />
+      <select name="api">
+        <option value="Luis">Luis.ai</option>
+        <option value="Wit">Wit.ai</option>
+        <option value="Alquist">Alquist (Czech language)</option>
+        <option value="Geneea">Geneea (Czech language)</option>
+      </select>
+      <br />
+      <input type="checkbox" name="useData" /> Use my own training data<br />
+      <textarea
+        class="scrollabletextbox"
+        style="height:400px;width: 600px"
+        name="data"
+      >
+      {
+        "IntentTesting": [
+          {
+            "sentence": "are you a rbot?",
+            "intent": "robot",
+            "typo": true
+          },
+          {
+            "sentence": "I wish to have robotic arms.",
+            "intent": "None",
+            "typo": false
+          }
+        ],
+        "SentimentTesting": [
+          {
+            "sentence": "oh aren't you a genius! great job.",
+            "sentiment": "positive",
+            "typo": false
+          },
+          {
+            "sentence": "god damn you",
+            "sentiment": "negative",
+            "typo": true
+          }
+        ]
+      }
+      
+      </textarea
+      ><br />
+      <input type="submit" name="submit" value="SEND" />
+    </form>
+  </body>
+</html>

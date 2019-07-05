@@ -1,0 +1,67 @@
+{
+  "IntentTesting": [
+    {
+      "sentence": "are you a rbot?",
+      "intent": "robot",
+      "typo": true
+    },
+    {
+      "sentence": "robot?",
+      "intent": "robot",
+      "typo": false
+    },
+    {
+      "sentence": "why are you texting me? are you arobot?",
+      "intent": "robot",
+      "typo": true
+    },
+    {
+      "sentence": "do you know what the R.O.B.O.T. stands for??",
+      "intent": "robot",
+      "typo": false
+    },
+    {
+      "sentence": "shut robot systems off",
+      "intent": "robot",
+      "typo": false
+    },
+
+    {
+      "sentence": "lets rob the bank!",
+      "intent": "None",
+      "typo": false
+    },
+    {
+      "sentence": "lets go shooting my automatic pistol together?",
+      "intent": "None",
+      "typo": false
+    },
+    {
+      "sentence": "I really liked the first robo cop :)",
+      "intent": "None",
+      "typo": false
+    }
+  ],
+  "SentimentTesting": [
+    {
+      "sentence": "aren't you a genius?",
+      "sentiment": "positive",
+      "typo": false
+    },
+    {
+      "sentence": "u r not so awesume afterall.",
+      "sentiment": "negative",
+      "typo": true
+    },
+    {
+      "sentence": "three eggs.",
+      "sentiment": "neutral",
+      "typo": false
+    },
+    {
+      "sentence": "god damn you",
+      "sentiment": "negative",
+      "typo": true
+    }
+  ]
+}

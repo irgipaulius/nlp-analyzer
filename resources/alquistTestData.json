@@ -1,0 +1,444 @@
+{
+    "IntentTesting": [
+        {
+            "sentence": "Jak se jemnujes?",
+            "intent": "Viktor",
+            "typo": true
+        },
+        {
+            "sentence": "jak dobře platíte?",
+            "intent": "Většína lidí na této pozici dostane asi 27.000 Kč.",
+            "typo": false
+        },
+        {
+            "sentence": "nechci tuhle pozici",
+            "intent": "Výborně, další vypsané pozice najdeš na našich karierních stránkách.",
+            "typo": false
+        },
+        {
+            "sentence": "jaké benefty vaše firma nabízí?",
+            "intent": "Je toho spoustu. Krom obligátních stravenek ještě dovolenou navíc a masáže.",
+            "typo": true
+        },
+        {
+            "sentence": "vezmete mě, když jsem absolvent?",
+            "intent": "Ne, na tuto pozice není nutná praxe v oboru.",
+            "typo": false
+        },
+        {
+            "sentence": "jak to máte s pracovní dobou?",
+            "intent": "Standardně 8 hodin.",
+            "typo": false
+        },
+        {
+            "sentence": "můžu pracovat jen ty dny v týdnu, co si vybru?",
+            "intent": "Na celý úvazek.",
+            "typo": true
+        },
+        {
+            "sentence": "jak moc musím být fyzicky zdatný?",
+            "intent": "To opravud není.",
+            "typo": false
+        },
+        {
+            "sentence": "musim umet cizi jazyk",
+            "intent": "Bylo by fajn, kdyby ses domluvil anglicky a německy.",
+            "typo": false
+        },
+        {
+            "sentence": "co bych mel umet?",
+            "intent": "Je dobré mít skvělé komunikační schopnosti.",
+            "typo": false
+        },
+        {
+            "sentence": "jaká je napln pracee?",
+            "intent": "Hlavně telefonovat a domlouvat schůzky.",
+            "typo": true
+        },
+        {
+            "sentence": "jake je datum nastupu?",
+            "intent": "V podstatě okamžitě, ale klidně poté, co ti vyprší výpovědní doba jinde.",
+            "typo": false
+        },
+        {
+            "sentence": "kolik lidi se mnou bude sedet v kanclu?",
+            "intent": "Pracujeme v openspacu, takže spíše ne.",
+            "typo": false
+        },
+        {
+            "sentence": "jak j eto s prijimacim rizenim?",
+            "intent": "Projít první kolem pohovoru s našim týmem a teamleaderem.",
+            "typo": true
+        },
+        {
+            "sentence": "máte pružnou pracovní dobu?",
+            "intent": "To bohužel ve směnné=m provozu nejde.",
+            "typo": false
+        },
+        {
+            "sentence": "muzu pracovat odjinud nez z kancelare?",
+            "intent": "Bohužel, musíš se zalogovat do našeho sysému a to z domu nejde.",
+            "typo": false
+        },
+        {
+            "sentence": "budu si moct sám naplánovat směny?",
+            "intent": "Ano, pokud se domluvíš s kolegy a teamleaderem.",
+            "typo": false
+        },
+        {
+            "sentence": "Máte svozyd o práce?",
+            "intent": "Ano každému pracovníkovi přispíváme 500 Kč na měsíc.",
+            "typo": true
+        },
+        {
+            "sentence": "budu muset dlouho čekat než se mi ozvete?",
+            "intent": "Ihned na pohovoru.",
+            "typo": false
+        },
+        {
+            "sentence": "musím si něco připravovat na pohovor?",
+            "intent": "Přijít včas a bez nervozity.",
+            "typo": false
+        },
+        {
+            "sentence": "kolik platíte za přesčas?",
+            "intent": "Ne, přesčasy jsou dobrovolné.",
+            "typo": false
+        },
+        {
+            "sentence": "jaký se u vás dá čekat profesní růst?",
+            "intent": "Ano, je možné vyrůst na pozici teamleadera a později výše do managementu.",
+            "typo": false
+        },
+        {
+            "sentence": "jak je to s jidelnoiu?",
+            "intent": "Máme tu vlastní kantýnu.",
+            "typo": true
+        },
+        {
+            "sentence": "dá se u firmy zadamo parkovat?",
+            "intent": "Přímo v budově je parkovací dům.",
+            "typo": false
+        },
+        {
+            "sentence": "rekni mi o tyhle praci",
+            "intent": "Na našich karierních stránkách.",
+            "typo": false
+        },
+        {
+            "sentence": "máte nějaké možnosti vzdělávání?",
+            "intent": "Naše lidi vzděláváme pravidelně a je možné se prihlásit na interní vzdělávací kurzy.",
+            "typo": false
+        },
+        {
+            "sentence": "penzijni pripojisteni mate?",
+            "intent": "Každému pracovníkovi přispíváme 500 Kč měsíčně.",
+            "typo": false
+        },
+        {
+            "sentence": "co se stalo těm co byli na této pozici předemnou?",
+            "intent": "Tak to se asi zeptej jeho.",
+            "typo": false
+        },
+        {
+            "sentence": "co jste vlastně za firmu?",
+            "intent": "Jsme jeden z největších telefonních operátorů s dvacetiletou tradicí.",
+            "typo": false
+        },
+        {
+            "sentence": "jaka je vaše firemnní kultura?",
+            "intent": "Naše kultura je rychlá a plná mladých lidí.",
+            "typo": true
+        },
+        {
+            "sentence": "Co se tady lidem líbý nejvíce?",
+            "intent": "Hlavně kamarádské vztahy a vznešené cíle, které máme.",
+            "typo": false
+        },
+        {
+            "sentence": "v čem budu mět chodit do práce?",
+            "intent": "Do práce můžeš chodit oblečený tak, jak se cítíš nejpohodlněji.",
+            "typo": false
+        },
+        {
+            "sentence": "jací budou mí spolupracovníci?",
+            "intent": "Hlavně tvůj teamleader a další členové týmu.",
+            "typo": false
+        },
+        {
+            "sentence": "jaký bude můj nadřízení?",
+            "intent": "Tvůj přímý nadřízený bude tvůj teamleader.",
+            "typo": false
+        },
+        {
+            "sentence": "Jaké dokumenty vás budou zajímat?",
+            "intent": "Občanský průkaz a potvrzení o vstupní lékařské prohlídce.",
+            "typo": false
+        },
+        {
+            "sentence": "Jaké bude pracovní prostředí?",
+            "intent": "V krásných kancelářích v centru města s vlastním parkovacím domem.",
+            "typo": false
+        },
+        {
+            "sentence": "Máte nějaké konference iza hranicemi?",
+            "intent": "Do zahraničí bohužel vycestovat nelze.",
+            "typo": true
+        },
+        {
+            "sentence": "budu muset nějak cestovat po republice?",
+            "intent": "Hlavně do Prahy a do Brna.",
+            "typo": false
+        },
+        {
+            "sentence": "jak probíhá zaučení?",
+            "intent": "Tvůj teamleader a školitelé.",
+            "typo": false
+        },
+        {
+            "sentence": "Za jak dlouho budu moci začít pracovat?",
+            "intent": "Asi č měsíce.",
+            "typo": false
+        },
+        {
+            "sentence": "Provede mně někdo po firmě?",
+            "intent": "Hned po nástupu budeš mít možnost se seznámit se všemi kolegy.",
+            "typo": false
+        },
+        {
+            "sentence": "Co říkáte na psi ve firmě?",
+            "intent": "Psů tu máme několik, kočku si zatím nikdo nekoupil. Takže je to možné.",
+            "typo": false
+        },
+        {
+            "sentence": "Budu si musetosvojit nějaké speciální postupy?",
+            "intent": "Asi zvládnout úspěšně své první telefonáty.",
+            "typo": true
+        },
+        {
+            "sentence": "Máte nějaké prekvapeni pro zakazniky?",
+            "intent": "Zatím ne.",
+            "typo": false
+        },
+        {
+            "sentence": "změnila se nějak vaše firma za poslední dobu?",
+            "intent": "Vyrostli jsme dvojnásobně personálně a trojnásobně v obratu.",
+            "typo": false
+        },
+        {
+            "sentence": "čím se lišíte od konkurence",
+            "intent": "Tak hlavně přístupem k zákazníkovi.",
+            "typo": false
+        },
+        {
+            "sentence": "kdo je vaše nejvěetší konkurence?",
+            "intent": "Firmy XXX a YYY.",
+            "typo": true
+        },
+        {
+            "sentence": "co můžu čekat od hlavního šéfa?",
+            "intent": "Nejvyšší šéf je náš investor. A potom ředitel naší firmy.",
+            "typo": false
+        },
+        {
+            "sentence": "jak často se budu muset scházet se šéfem?",
+            "intent": "Jednou za čas se zastaví i v našem týmu. Většinou 2x do roka.",
+            "typo": false
+        },
+        {
+            "sentence": "střídají se na této pozici zaměstnanci často?",
+            "intent": "Průměr máme 6 let.",
+            "typo": false
+        },
+        {
+            "sentence": "Pořádáte občas nějaké týmbuildingy?",
+            "intent": "Ano, pravidelně někam chodíme. Hlavně hrát fotbal, hokej a potom samozřejmě někam posedět.",
+            "typo": false
+        },
+        {
+            "sentence": "Co budu tak dělat během obyčejného dne?",
+            "intent": "Ráno příjdeš a večer odejdeš.",
+            "typo": false
+        },
+        {
+            "sentence": "Dá se kvám dojetv lakem?",
+            "intent": "Jede k nám linka 99 a travaj číslo 7.",
+            "typo": true
+        },
+        {
+            "sentence": "Pracují u vás nějaké ženy?",
+            "intent": "Máme to tak 50 na 50.",
+            "typo": false
+        },
+        {
+            "sentence": "Co bych měl třeba umět?",
+            "intent": "Všechno.",
+            "typo": false
+        },
+        {
+            "sentence": "Na čem budu makat",
+            "intent": "Se systémem pro call centra a s MS Office.",
+            "typo": false
+        },
+        {
+            "sentence": "Jaké týmové projekty mě čekají?",
+            "intent": "Projekt pro jednu velkou pojišťovnu. Podrobnosti ti sdělí na pohovoru.",
+            "typo": false
+        },
+        {
+            "sentence": "Jak můžu být k užitku ostatním zaměstnancům?",
+            "intent": "Pořád něco řešíme.",
+            "typo": false
+        },
+        {
+            "sentence": "jake jsou firemni cile?",
+            "intent": "Vydržet.",
+            "typo": false
+        },
+        {
+            "sentence": "Budum ít nějaké mlaadé kolegyně?",
+            "intent": "28 let.",
+            "typo": true
+        },
+        {
+            "sentence": "Jak mlady kolektiv máte?",
+            "intent": "33 let.",
+            "typo": false
+        },
+        {
+            "sentence": "Kam mám poslat moje CV?",
+            "intent": "Na náš mail test@test.cz",
+            "typo": false
+        },
+        {
+            "sentence": "Kontaktujete mě sami?",
+            "intent": "Ihned po ukončení pohovoru. Pokud bude úspěšný.",
+            "typo": false
+        },
+        {
+            "sentence": "Dá se u vás odpočívat v práci?",
+            "intent": "Máme relax zonu přímo v kancelářích.",
+            "typo": false
+        },
+        {
+            "sentence": "Je v blízkosti firmy nějaký park?",
+            "intent": "Je tu hokejový stadion a malé fotbalové hřiště.",
+            "typo": false
+        },
+        {
+            "sentence": "Máte firemní inrtanet?",
+            "intent": "MS Teams, mail a Slack.",
+            "typo": true
+        },
+        {
+            "sentence": "Budu mít nějaké spolupracovníky?",
+            "intent": "Samozřejmě v týmu.",
+            "typo": false
+        },
+        {
+            "sentence": "jaká je délka dovolené",
+            "intent": "Standardně 4 týdny + 3 sick days.",
+            "typo": false
+        },
+        {
+            "sentence": "Máte nějaké Zahraniční pobočky???",
+            "intent": "Ano, máme pobočky po celém světě.",
+            "typo": false
+        },
+        {
+            "sentence": "Certifikáty co budu muset doložit???",
+            "intent": "Pro tuto práci nejsou certifikáty potřeba.",
+            "typo": false
+        },
+        {
+            "sentence": "Jak se mas?",
+            "intent": "None",
+            "typo": false
+        },
+        {
+            "sentence": "kolik te platí?",
+            "intent": "None",
+            "typo": false
+        },
+        {
+            "sentence": "chci tuhle pozici",
+            "intent": "None",
+            "typo": false
+        },
+        {
+            "sentence": "proc vaše firma nema benefity?",
+            "intent": "None",
+            "typo": false
+        },
+        {
+            "sentence": "mate pracovní kalendar?",
+            "intent": "None",
+            "typo": false
+        },
+        {
+            "sentence": "kdy uz muzu pracvoat?",
+            "intent": "None",
+            "typo": true
+        },
+        {
+            "sentence": "jsem fizicky mocny",
+            "intent": "None",
+            "typo": false
+        },
+        {
+            "sentence": "ja nerozumim cesky jazyk",
+            "intent": "None",
+            "typo": false
+        },
+        {
+            "sentence": "co ti umes?",
+            "intent": "None",
+            "typo": false
+        },
+        {
+            "sentence": "napl nerozumim te",
+            "intent": "None",
+            "typo": false
+        },
+        {
+            "sentence": "jake je datumm svatky?",
+            "intent": "None",
+            "typo": true
+        },
+        {
+            "sentence": "kolikl idi se mnou bud esedet v vězení?",
+            "intent": "None",
+            "typo": true
+        },
+        {
+            "sentence": "ted' pracuju na remote",
+            "intent": "None",
+            "typo": false
+        },
+        {
+            "sentence": "chci směny! nesnasim presidentu",
+            "intent": "None",
+            "typo": false
+        },
+        {
+            "sentence": "Máte svozy do práce?",
+            "intent": "None",
+            "typo": false
+        },
+        {
+            "sentence": "budu muset dlouho čekat než se mi ozvete?",
+            "intent": "None",
+            "typo": false
+        },
+        {
+            "sentence": "musím si něco připravovat na pohovor?",
+            "intent": "None",
+            "typo": false
+        },
+        {
+            "sentence": "kolk platíte z přesčas?",
+            "intent": "None",
+            "typo": true
+        }
+    ]
+}
