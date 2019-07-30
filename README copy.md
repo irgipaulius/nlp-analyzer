@@ -1,5 +1,7 @@
 NLP systems analyzer utility
 
+This project is a Bachelor's degree Information Technology study thesis work for Šiauliai University, by Paulius Jacinkevičius
+
 # Setup
 
 - extract `NLP_analyzer.rar` file
